@@ -16,7 +16,6 @@
 <script>
 import ComHeader from '@/components/ComHeader.vue'
 import ComFooter from '@/components/ComFooter.vue'
-// import { ref ,computed , watch} from "vue";
 import { ref , computed , watch } from "vue";
 export default {
     name: 'Hall',
