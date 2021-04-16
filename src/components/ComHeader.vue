@@ -18,10 +18,10 @@
     width: 100%;
     height: 79px;
     background: #070707;
+    margin: 0 auto;
     .com-header {
         width: 1000px;
         height: 100%;
-        margin: 0 auto;
         // background: pink;
         .com-header-l {
             display: inline-block;
